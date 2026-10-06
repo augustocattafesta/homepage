@@ -1,0 +1,64 @@
+title: Home
+subtitle: Quick links
+logo: assets/icons/logo.svg
+header: true
+footer: false
+columns: 4
+connectivityCheck: false
+
+services:
+  - name: Google Apps
+    icon: fab fa-google
+    items:
+      - name: Google
+        subtitle: Search
+        url: https://www.google.com
+        icon: fab fa-google
+      - name: Gmail
+        subtitle: Email
+        url: https://mail.google.com
+        icon: fas fa-envelope
+      - name: Drive
+        subtitle: Cloud storage
+        url: https://drive.google.com
+        icon: fab fa-google-drive
+      - name: Calendar
+        subtitle: Events
+        url: https://calendar.google.com
+        icon: fas fa-calendar-alt
+      - name: Tasks
+        subtitle: To-do list
+        url: https://tasks.google.com
+        icon: fas fa-tasks
+      - name: Keep
+        subtitle: Notes
+        url: https://keep.google.com
+        icon: fas fa-sticky-note
+      - name: Docs
+        subtitle: Documents
+        url: https://docs.google.com
+        icon: fas fa-file-alt
+      - name: Gemini
+        subtitle: AI assistant
+        url: https://gemini.google.com
+        icon: fas fa-star
+
+  - name: Other Websites
+    icon: fas fa-globe
+    items:
+      - name: Bitwarden
+        subtitle: Password manager
+        url: https://vault.bitwarden.com
+        icon: fas fa-shield-alt
+      - name: WhatsApp
+        subtitle: Messages
+        url: https://web.whatsapp.com
+        icon: fab fa-whatsapp
+      - name: GitHub
+        subtitle: Code hosting
+        url: https://github.com
+        icon: fab fa-github
+      - name: YouTube
+        subtitle: Videos
+        url: https://www.youtube.com
+        icon: fab fa-youtube
