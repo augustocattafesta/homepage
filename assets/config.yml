@@ -13,35 +13,35 @@ services:
       - name: Google
         subtitle: Search
         url: https://www.google.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google.svg
+        icon: assets/icons/svg/google.svg
       - name: Gmail
         subtitle: Email
         url: https://mail.google.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg
+        icon: assets/icons/svg/gmail.svg
       - name: Drive
         subtitle: Cloud storage
         url: https://drive.google.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-drive.svg
+        icon: assets/icons/svg/google-drive.svg
       - name: Calendar
         subtitle: Events
         url: https://calendar.google.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-calendar.svg
+        icon: assets/icons/svg/google-calendar.svg
       - name: Tasks
         subtitle: To-do list
         url: https://tasks.google.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-tasks.svg
+        icon: assets/icons/svg/google-task.svg
       - name: Keep
         subtitle: Notes
         url: https://keep.google.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-keep.svg
+        icon: assets/icons/svg/google-keep.svg
       - name: Docs
         subtitle: Documents
         url: https://docs.google.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-docs.svg
+        icon: assets/icons/svg/google-docs.svg
       - name: Gemini
         subtitle: AI assistant
         url: https://gemini.google.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg
+        icon: assets/icons/svg/gemini.svg
 
   - name: Other Websites
     icon: fas fa-globe
@@ -49,16 +49,16 @@ services:
       - name: Bitwarden
         subtitle: Password manager
         url: https://vault.bitwarden.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bitwarden.svg
+        icon: assets/icons/svg/bitwarden.svg
       - name: WhatsApp
         subtitle: Messages
         url: https://web.whatsapp.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/whatsapp.svg
+        icon: assets/icons/svg/whatsapp.svg
       - name: GitHub
         subtitle: Code hosting
         url: https://github.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg
+        icon: assets/icons/svg/github.svg
       - name: YouTube
         subtitle: Videos
         url: https://www.youtube.com
-        icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/youtube.svg
+        icon: assets/icons/svg/youtube.svg
