@@ -1,6 +1,6 @@
 title: Home
 subtitle: Quick links
-logo: homepage/assets/icons/logo.svg
+logo: assets/icons/logo.svg
 header: true
 footer: false
 columns: 4
@@ -13,35 +13,35 @@ services:
       - name: Google
         subtitle: Search
         url: https://www.google.com
-        icon: homepage/assets/icons/svg/google.svg
+        logo: assets/icons/svg/google.svg
       - name: Gmail
         subtitle: Email
         url: https://mail.google.com
-        icon: homepage/assets/icons/svg/gmail.svg
+        logo: assets/icons/svg/gmail.svg
       - name: Drive
         subtitle: Cloud storage
         url: https://drive.google.com
-        icon: homepage/assets/icons/svg/google-drive.svg
+        logo: assets/icons/svg/google-drive.svg
       - name: Calendar
         subtitle: Events
         url: https://calendar.google.com
-        icon: homepage/assets/icons/svg/google-calendar.svg
+        logo: assets/icons/svg/google-calendar.svg
       - name: Tasks
         subtitle: To-do list
         url: https://tasks.google.com
-        icon: homepage/assets/icons/svg/google-task.svg
+        logo: assets/icons/svg/google-tasks.svg
       - name: Keep
         subtitle: Notes
         url: https://keep.google.com
-        icon: homepage/assets/icons/svg/google-keep.svg
+        logo: assets/icons/svg/google-keep.svg
       - name: Docs
         subtitle: Documents
         url: https://docs.google.com
-        icon: homepage/assets/icons/svg/google-docs.svg
+        logo: assets/icons/svg/google-docs.svg
       - name: Gemini
         subtitle: AI assistant
         url: https://gemini.google.com
-        icon: homepage/assets/icons/svg/gemini.svg
+        logo: assets/icons/svg/google-gemini.svg
 
   - name: Other Websites
     icon: fas fa-globe
@@ -49,16 +49,16 @@ services:
       - name: Bitwarden
         subtitle: Password manager
         url: https://vault.bitwarden.com
-        icon: homepage/assets/icons/svg/bitwarden.svg
+        logo: assets/icons/svg/bitwarden.svg
       - name: WhatsApp
         subtitle: Messages
         url: https://web.whatsapp.com
-        icon: homepage/assets/icons/svg/whatsapp.svg
+        logo: assets/icons/svg/whatsapp.svg
       - name: GitHub
         subtitle: Code hosting
         url: https://github.com
-        icon: homepage/assets/icons/svg/github.svg
+        logo: assets/icons/svg/github.svg
       - name: YouTube
         subtitle: Videos
         url: https://www.youtube.com
-        icon: homepage/assets/icons/svg/youtube.svg
+        logo: assets/icons/svg/youtube.svg
